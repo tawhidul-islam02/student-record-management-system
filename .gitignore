@@ -68,3 +68,5 @@ vcpkg_installed/
 Testing/
 .cache/
 student_records
+students.txt
+.nfs*
