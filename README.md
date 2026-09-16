@@ -1,6 +1,6 @@
 # Student Record Management System
 
-A C++ console application for managing student records using object-oriented programming, STL containers, searching, and file handling.
+C++ console application for managing student records using OOP, STL containers, searching, and file handling.
 
 ## Features
 
